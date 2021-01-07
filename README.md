@@ -1,2 +1,2 @@
-# SQLPROJECTS
-My SSMS databases projects
+# SQL DATABASE PROJECT RTVSHOP
+My SSMS database project on RTV AGD SHOP
